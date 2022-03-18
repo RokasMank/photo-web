@@ -1,0 +1,13 @@
+!!! Pakeisti duomenų perdavimą į Slides() :  perduoti string[],
+ reikia iš state.itemsXXXX padaryti const string[] items ir perduoti Slides() komponentui  # Done
+
+!!! Sukurti duomenų paėmimą likusiems galerijos puslapiams (darbas su reduxu)  # Done
+
+!!! Galerijos nuotraukų išdėstymas #Done
+
+ *Sutvarkyti lightBox() funkciją
+ *Pergalvoti dizainą
+ *Sukurti About/Contacts puslapius
+ *Pritaikyti telefonams
+
+ ?? Sukurti login'ą nuotraukų įkėlimui, trynimui
